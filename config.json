@@ -1,0 +1,16 @@
+{
+  "theme": {
+    "header_fg": "white",
+    "header_bg": "blue",
+    "default_fg": "white",
+    "default_bg": "black",
+    "gutter_fg": "yellow",
+    "search_fg": "black",
+    "search_bg": "yellow",
+    "selected_fg": "white",
+    "selected_bg": "black",
+    "status_ok_fg": "green",
+    "status_err_fg": "red",
+    "status_info_fg": "white"
+  }
+}
