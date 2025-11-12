@@ -1,7 +1,7 @@
 {
   "theme": {
     "header_fg": "white",
-    "header_bg": "blue",
+    "header_bg": "red",
     "default_fg": "white",
     "default_bg": "black",
     "gutter_fg": "yellow",
