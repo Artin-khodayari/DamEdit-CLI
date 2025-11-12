@@ -1,0 +1,73 @@
+Hello!
+I'm Artin khodayari.
+That's my pleasure to see you!
+This is a terminal-editor written in python3
+and this text is an example to show/edit files using DamEdit-CLI
+I created an edtior using tkinter, before
+You can see the source code on :
+https://github.com/Artin-khodayari/DamEdit.git
+That was fun but i decided to write a terminal version and now I'm working on it
+
+splited by [space] : # Guys, I'm not crazy; I just wanted to make this text longer!
+
+Hello!
+I'm
+Artin
+khodayari.
+That's
+my
+pleasure
+to
+see
+you!
+This
+is
+a
+terminal-editor
+written
+in
+python3
+and
+this
+text
+is
+an
+example
+to
+show/edit
+files
+using
+DamEdit-CLI
+I
+created
+an
+edtior
+using
+tkinter,
+before
+You
+can
+see
+the
+source
+code
+on
+:
+https://github.com/Artin-khodayari/DamEdit.git
+That
+was
+fun
+but
+i
+decided
+to
+write
+a
+terminal
+version
+and
+now
+I'm
+working
+on
+it
